@@ -169,7 +169,7 @@ p
 
 
 .foot{background-color: black ;position: relative ;z-index: 2;display: block;color: white; height: 310px; width:1400px;line-height: 2; text-align: left; padding: 2em;}
-#moomin{position: relative ;z-index: 3;   height: 21px; left: 250px; top:70px; width:80px; }
+#moomin{position: relative ;z-index: 3;   height: 21px; left: 150px; top:70px; width:80px; }
 #final{position: relative ;z-index: 3;    left: 650px; top:300px; width:180px;height: 180px; }
 #final2{position: relative ;z-index: 3;    left: 630px; top:290px; width:180px;height: 180px; }
 #final3{position: relative ;z-index: 3;    left: 630px; top:310px; width:200px;height: auto; }
